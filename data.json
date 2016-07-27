@@ -1,0 +1,1468 @@
+{
+    "json_data": [
+        {
+            "State": "Assam",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "4041 "
+        },
+        {
+            "State": "Assam",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "161811 "
+        },
+        {
+            "State": "Assam",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "205951 "
+        },
+        {
+            "State": "Assam",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "311418 "
+        },
+        {
+            "State": "Assam",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "166989 "
+        },
+        {
+            "State": "Assam",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "1159 "
+        },
+        {
+            "State": "Assam",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "1336 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-20",
+            "Net Sales": "24221 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-27",
+            "Net Sales": "42297 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "53656 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "56906 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "26033 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "161009 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-28",
+            "Net Sales": "173079 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "6298 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "268 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-25",
+            "Net Sales": "262 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-27",
+            "Net Sales": "4230 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-28",
+            "Net Sales": "260 "
+        },
+        {
+            "State": "Black River",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "1596 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-20",
+            "Net Sales": "386561 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-21",
+            "Net Sales": "713170 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-22",
+            "Net Sales": "247930 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-23",
+            "Net Sales": "459504 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-24",
+            "Net Sales": "368599 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-25",
+            "Net Sales": "345908 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-26",
+            "Net Sales": "292105 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-27",
+            "Net Sales": "98627 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-28",
+            "Net Sales": "703793 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "284330 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "1479039 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-21",
+            "Net Sales": "5989261 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-22",
+            "Net Sales": "1628597 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-23",
+            "Net Sales": "3994195 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-24",
+            "Net Sales": "5626934 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "2085689 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-26",
+            "Net Sales": "2388532 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "1671502 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-28",
+            "Net Sales": "2803752 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "1134987 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "2476 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-21",
+            "Net Sales": "93849 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-22",
+            "Net Sales": "16803 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-23",
+            "Net Sales": "64488 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-24",
+            "Net Sales": "108142 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-25",
+            "Net Sales": "40523 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-26",
+            "Net Sales": "36674 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-27",
+            "Net Sales": "34140 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-28",
+            "Net Sales": "39958 "
+        },
+        {
+            "State": "Gujarat",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "18014 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-20",
+            "Net Sales": "212194 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-21",
+            "Net Sales": "552896 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-22",
+            "Net Sales": "1034351 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-23",
+            "Net Sales": "554624 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-24",
+            "Net Sales": "443884 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-25",
+            "Net Sales": "778146 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-26",
+            "Net Sales": "426728 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-27",
+            "Net Sales": "184421 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-28",
+            "Net Sales": "658535 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "172269 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "2697097 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-21",
+            "Net Sales": "3355815 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-22",
+            "Net Sales": "4297668 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-23",
+            "Net Sales": "2907052 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-24",
+            "Net Sales": "2633263 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "2632705 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-26",
+            "Net Sales": "3100062 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "1811767 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-28",
+            "Net Sales": "3096772 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "1719891 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "23662 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-21",
+            "Net Sales": "65091 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-22",
+            "Net Sales": "62284 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-23",
+            "Net Sales": "60615 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-24",
+            "Net Sales": "23236 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-25",
+            "Net Sales": "35388 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-26",
+            "Net Sales": "45513 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-27",
+            "Net Sales": "27821 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-28",
+            "Net Sales": "33118 "
+        },
+        {
+            "State": "Karnataka",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "29338 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-20",
+            "Net Sales": "2004913 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-21",
+            "Net Sales": "1476975 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-22",
+            "Net Sales": "2463353 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-23",
+            "Net Sales": "1806116 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-24",
+            "Net Sales": "1201739 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-25",
+            "Net Sales": "1324018 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-26",
+            "Net Sales": "2559398 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-27",
+            "Net Sales": "981510 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-28",
+            "Net Sales": "1353810 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "703844 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "5631655 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-21",
+            "Net Sales": "9103061 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-22",
+            "Net Sales": "11785790 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-23",
+            "Net Sales": "9269198 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-24",
+            "Net Sales": "5087538 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "8124451 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-26",
+            "Net Sales": "8016803 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "5701953 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-28",
+            "Net Sales": "7524272 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "3685787 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "80192 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-21",
+            "Net Sales": "159465 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-22",
+            "Net Sales": "278503 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-23",
+            "Net Sales": "218346 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-24",
+            "Net Sales": "134495 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-25",
+            "Net Sales": "138821 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-26",
+            "Net Sales": "175461 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-27",
+            "Net Sales": "103391 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-28",
+            "Net Sales": "199083 "
+        },
+        {
+            "State": "Maharashtra",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "79295 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-20",
+            "Net Sales": "132749 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-21",
+            "Net Sales": "142993 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-23",
+            "Net Sales": "75126 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-25",
+            "Net Sales": "197029 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-26",
+            "Net Sales": "423590 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-27",
+            "Net Sales": "249455 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "137961 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "1522829 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-21",
+            "Net Sales": "574467 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-23",
+            "Net Sales": "1717300 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "1507127 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-26",
+            "Net Sales": "2530212 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "1669657 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "904744 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "25032 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-21",
+            "Net Sales": "7661 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-23",
+            "Net Sales": "14471 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-25",
+            "Net Sales": "33327 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-26",
+            "Net Sales": "18185 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-27",
+            "Net Sales": "44959 "
+        },
+        {
+            "State": "New Delhi",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "14232 "
+        },
+        {
+            "State": "Orissa",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-25",
+            "Net Sales": "74763 "
+        },
+        {
+            "State": "Orissa",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-27",
+            "Net Sales": "30379 "
+        },
+        {
+            "State": "Orissa",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "58736 "
+        },
+        {
+            "State": "Orissa",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "319018 "
+        },
+        {
+            "State": "Orissa",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "433490 "
+        },
+        {
+            "State": "Orissa",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "382821 "
+        },
+        {
+            "State": "Orissa",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "251374 "
+        },
+        {
+            "State": "Orissa",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "-3098"
+        },
+        {
+            "State": "Orissa",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-25",
+            "Net Sales": "2170 "
+        },
+        {
+            "State": "Orissa",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-27",
+            "Net Sales": "4649 "
+        },
+        {
+            "State": "Orissa",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "6832 "
+        },
+        {
+            "State": "Plain Whelmes",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-20",
+            "Net Sales": "21726 "
+        },
+        {
+            "State": "Plain Whelmes",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-25",
+            "Net Sales": "164199 "
+        },
+        {
+            "State": "Plain Whelmes",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "69126 "
+        },
+        {
+            "State": "Plain Whelmes",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "186425 "
+        },
+        {
+            "State": "Plain Whelmes",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "91001 "
+        },
+        {
+            "State": "Plain Whelmes",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "137663 "
+        },
+        {
+            "State": "Plain Whelmes",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-28",
+            "Net Sales": "102814 "
+        },
+        {
+            "State": "Plain Whelmes",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "177044 "
+        },
+        {
+            "State": "Plain Whelmes",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "7008 "
+        },
+        {
+            "State": "Plain Whelmes",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-25",
+            "Net Sales": "3112 "
+        },
+        {
+            "State": "Plain Whelmes",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-28",
+            "Net Sales": "4332 "
+        },
+        {
+            "State": "Plain Whelmes",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "3225 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-20",
+            "Net Sales": "98513 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-25",
+            "Net Sales": "32262 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-27",
+            "Net Sales": "35589 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-28",
+            "Net Sales": "32310 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "43699 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "176762 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "102821 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "142703 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-28",
+            "Net Sales": "142644 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "77095 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "74 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-25",
+            "Net Sales": "3150 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-27",
+            "Net Sales": "5637 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-28",
+            "Net Sales": "9386 "
+        },
+        {
+            "State": "Port Louis",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "992 "
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-27",
+            "Net Sales": "49204 "
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-28",
+            "Net Sales": "63882 "
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "14810 "
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "5391 "
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "295663 "
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "83666 "
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-28",
+            "Net Sales": "228709 "
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "29755 "
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "-680"
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-25",
+            "Net Sales": "1917 "
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-27",
+            "Net Sales": "15446 "
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-28",
+            "Net Sales": "2550 "
+        },
+        {
+            "State": "Punjab",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "6151 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-20",
+            "Net Sales": "455387 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-21",
+            "Net Sales": "1427519 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-22",
+            "Net Sales": "2062998 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-23",
+            "Net Sales": "1762214 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-24",
+            "Net Sales": "1165657 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-25",
+            "Net Sales": "314564 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-26",
+            "Net Sales": "742031 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-27",
+            "Net Sales": "307086 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-28",
+            "Net Sales": "1012256 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "306818 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "4102173 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-21",
+            "Net Sales": "8117070 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-22",
+            "Net Sales": "12251257 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-23",
+            "Net Sales": "6324540 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-24",
+            "Net Sales": "4841342 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "1912005 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-26",
+            "Net Sales": "5258222 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "1906680 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-28",
+            "Net Sales": "4517382 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "1885876 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "64139 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-21",
+            "Net Sales": "147909 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-22",
+            "Net Sales": "168574 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-23",
+            "Net Sales": "91777 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-24",
+            "Net Sales": "68819 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-25",
+            "Net Sales": "36284 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-26",
+            "Net Sales": "132396 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-27",
+            "Net Sales": "33025 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-28",
+            "Net Sales": "83924 "
+        },
+        {
+            "State": "Tamil Nadu",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "28979 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-20",
+            "Net Sales": "36659 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-25",
+            "Net Sales": "82933 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-27",
+            "Net Sales": "296711 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-28",
+            "Net Sales": "117169 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "36351 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "448056 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "664016 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-26",
+            "Net Sales": "199482 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "907090 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-28",
+            "Net Sales": "440181 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "111177 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "-1456"
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-25",
+            "Net Sales": "15269 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-26",
+            "Net Sales": "4569 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-27",
+            "Net Sales": "31881 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-28",
+            "Net Sales": "5732 "
+        },
+        {
+            "State": "UP",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "7442 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-20",
+            "Net Sales": "389656 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-25",
+            "Net Sales": "427616 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-27",
+            "Net Sales": "505580 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-28",
+            "Net Sales": "440876 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 1",
+            "Date": "2015-08-29",
+            "Net Sales": "151121 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-20",
+            "Net Sales": "1630706 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-25",
+            "Net Sales": "1811225 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-27",
+            "Net Sales": "2429994 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-28",
+            "Net Sales": "1939758 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 2",
+            "Date": "2015-08-29",
+            "Net Sales": "1020420 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-20",
+            "Net Sales": "10436 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-25",
+            "Net Sales": "44741 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-27",
+            "Net Sales": "41981 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-28",
+            "Net Sales": "32739 "
+        },
+        {
+            "State": "West Bengal",
+            "Product Category": "Catg 3",
+            "Date": "2015-08-29",
+            "Net Sales": "19608 "
+        }
+    ]
+}
